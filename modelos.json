@@ -1,0 +1,22 @@
+{
+  "qwen-coder": {
+    "id": "Qwen/Qwen2.5-Coder-7B-Instruct",
+    "revision": "c03e6d358207e414f1eca0bb1891e29f1db0e242",
+    "context": 32768
+  },
+  "qwen-instruct": {
+    "id": "Qwen/Qwen2.5-7B-Instruct",
+    "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+    "context": 32768
+  },
+  "aya-expanse": {
+    "id": "CohereLabs/aya-expanse-8b",
+    "revision": "5062468bf9bc0c6035fd64e06274333ec127d980",
+    "context": 8192
+  },
+  "llama-instruct": {
+    "id": "meta-llama/Llama-3.1-8B-Instruct",
+    "revision": "0e9e39f249a16976918f6564b8830bc894c89659",
+    "context": 131072
+  }
+}
